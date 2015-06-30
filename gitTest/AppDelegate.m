@@ -20,6 +20,7 @@
     
     // Override point for customization after application launch.
     NSLog(@"application did finish launching");
+    NSLog(@"application did finish launching1");
     return YES;
 }
 
